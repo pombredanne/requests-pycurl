@@ -1,0 +1,6 @@
+tox
+pytest
+httpbin
+pytest-httpbin
+pycurl
+requests
